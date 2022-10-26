@@ -2,13 +2,13 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 owner = [
-  ['625717497745'],
-  ['6281323965046'],
+  ['6287778405247'],
+  ['6283144670363'],
   ['62895330379186', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
-prems = [6285717497745] // Premium user has unlimited limit
+prems = [6287778405247] // Premium user has unlimited limit
 APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -58,7 +58,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 packname = sticker_name
 author = sticker_author
-wm = '© Aine'
+wm = '© Reii'
 
 Intervalmsg = 1800 //detik
 
